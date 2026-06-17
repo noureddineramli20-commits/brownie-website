@@ -1,0 +1,60 @@
+body {
+  background-color: rgba(102, 7, 109, 0.894);
+  color: rgb(255, 0, 0);
+  cursor: crosshair;
+}
+
+h1 {
+  color: rgb(122, 141, 236);
+  font-family: "times new roman", times, serif;
+}
+h2 {
+  color: rgb(255, 217, 28);
+  font-family: "times new roman", times, serif;
+}
+p {
+  color: rgb(114, 170, 170);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h3 {
+  color: rgb(83, 202, 87);
+  font-family: "times new roman", times, serif;
+}
+h4 {
+  font-family: "georgia" serif;
+  color: rgb(114, 170, 170);
+}
+h5 {
+  font-family: "georgia" serif;
+  color: red;
+}
+h6 {
+  font-family: "georgia" serif;
+  color: rgb(114, 170, 170);
+}
+
+ul ol {
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  color: rgb(12, 9, 197);
+}
+#img_1 {
+  width: 450px;
+  height: 250px;
+  border-radius: 50px;
+  border: 3px red solid;
+}
+iframe {
+  width: 400px;
+  height: 200px;
+  border-radius: 40px;
+  border: 3px olivedrab solid;
+}
+nav a :hover {
+  color: rgb(199, 196, 14);
+}
+
+.custombullet {
+  list-style-type: lower-roman;
+}
